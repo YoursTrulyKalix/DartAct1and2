@@ -8,5 +8,5 @@ void main() {
   
   print("$greetings, $user!");
 
-// you cant execute output when you use a dynamic variable outside the string. so you must use $variable_name inside the string for it to execute.
+// you cant execute output when you use a dynamic variable outside the string. so you must use $variable_name inside the string for it to execute
 }
